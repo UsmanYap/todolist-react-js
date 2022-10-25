@@ -1,2 +1,1 @@
-# todolist-react-js
-making to do list use react.js
+# [실습] My Todo List 만들기 (level 0)
